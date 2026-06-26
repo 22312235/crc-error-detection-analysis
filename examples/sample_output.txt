@@ -1,0 +1,8 @@
+CRC Remainder:
+1110
+
+Transmitted Codeword:
+11010110111110
+
+Verification:
+No transmission errors detected.
