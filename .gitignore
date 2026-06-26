@@ -1,0 +1,23 @@
+# Build files
+*.o
+*.out
+*.exe
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
