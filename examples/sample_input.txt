@@ -1,0 +1,11 @@
+Original Message:
+1101011011
+
+Generator Polynomial:
+10011
+
+CRC Type:
+CRC-4
+
+Operation:
+Modulo-2 Division
